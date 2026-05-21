@@ -915,9 +915,8 @@ run_meta_loocv <- function(rv,
           dt_meta <- rbind(dt_meta, tmp_dt)
         }
       }
-      if (.progress) {
-        setTxtProgressBar(pb, x)
-      }
+      
+      if (.progress) setTxtProgressBar(pb, x)
       
     } # end of [x] loop (individuals)
     
@@ -925,7 +924,7 @@ run_meta_loocv <- function(rv,
     
   }) # end of [set_target] lapply
   
-  if (.progress) close(pb)
+  if (.progress && !is.null(pb)) close(pb)
   
   return(dplyr::distinct(do.call(rbind, out)))
   
