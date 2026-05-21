@@ -21,5 +21,10 @@ Useful links:
 \author{
 \strong{Maintainer}: Inês Silva \email{i.simoes-silva@hzdr.de} (\href{https://orcid.org/0000-0003-4850-6193}{ORCID}) [copyright holder]
 
+Authors:
+\itemize{
+  \item Inês Silva \email{i.simoes-silva@hzdr.de} (\href{https://orcid.org/0000-0003-4850-6193}{ORCID}) [copyright holder]
+}
+
 }
 \keyword{internal}

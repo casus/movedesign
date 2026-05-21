@@ -135,10 +135,10 @@ stabilised across replicates (the recommended criterion for
 deciding when enough replicates have been run).
 \code{\link[=md_plot]{md_plot()}} and \code{\link[=md_plot_replicates]{md_plot_replicates()}} to visualize outputs.
 
-Other workflow_steps: 
-\code{\link{md_compare}()},
-\code{\link{md_prepare}()},
-\code{\link{md_run}()},
-\code{\link{md_simulate}()}
+Other workflow_steps:
+\code{\link[=md_compare]{md_compare()}},
+\code{\link[=md_prepare]{md_prepare()}},
+\code{\link[=md_run]{md_run()}},
+\code{\link[=md_simulate]{md_simulate()}}
 }
 \concept{workflow_steps}

@@ -79,10 +79,10 @@ evaluation.
 \code{\link[=md_plot_preview]{md_plot_preview()}} and \code{\link[=md_compare_preview]{md_compare_preview()}} to inspect
 or compare these preliminary outputs.
 
-Other workflow_steps: 
-\code{\link{md_compare}()},
-\code{\link{md_prepare}()},
-\code{\link{md_replicate}()},
-\code{\link{md_simulate}()}
+Other workflow_steps:
+\code{\link[=md_compare]{md_compare()}},
+\code{\link[=md_prepare]{md_prepare()}},
+\code{\link[=md_replicate]{md_replicate()}},
+\code{\link[=md_simulate]{md_simulate()}}
 }
 \concept{workflow_steps}

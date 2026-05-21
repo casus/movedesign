@@ -154,10 +154,10 @@ if (interactive()) {
 and refer to \code{bayestestR::ci()} for details on credible interval
 computation and interpretation.
 
-Other workflow_steps: 
-\code{\link{md_prepare}()},
-\code{\link{md_replicate}()},
-\code{\link{md_run}()},
-\code{\link{md_simulate}()}
+Other workflow_steps:
+\code{\link[=md_prepare]{md_prepare()}},
+\code{\link[=md_replicate]{md_replicate()}},
+\code{\link[=md_run]{md_run()}},
+\code{\link[=md_simulate]{md_simulate()}}
 }
 \concept{workflow_steps}

@@ -180,10 +180,10 @@ input_grouped <- md_simulate(
 \code{\link[=md_prepare]{md_prepare()}} to derive parameters from real tracking
 data.
 
-Other workflow_steps: 
-\code{\link{md_compare}()},
-\code{\link{md_prepare}()},
-\code{\link{md_replicate}()},
-\code{\link{md_run}()}
+Other workflow_steps:
+\code{\link[=md_compare]{md_compare()}},
+\code{\link[=md_prepare]{md_prepare()}},
+\code{\link[=md_replicate]{md_replicate()}},
+\code{\link[=md_run]{md_run()}}
 }
 \concept{workflow_steps}

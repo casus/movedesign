@@ -43,7 +43,7 @@ a list with two tracks (from groups A and B).
 }
 \description{
 Generates simulated animal movement tracks based on continuous-time
-movement models using \code{\link[ctmm:simulate.ctmm]{ctmm::simulate()}}. Supports both single-group
+movement models using \code{\link[ctmm:simulate]{ctmm::simulate()}}. Supports both single-group
 and grouped simulations, as determined by study design and data
 parameters. Used within the \code{movedesign} application workflows to
 create synthetic data for simulation studies and to evaluate study
