@@ -255,6 +255,16 @@ mod_tab_meta_ui <- function(id) {
                   ns("metaTable_m_optimal")),
                 p(style = "margin-top: 30px;"),
                 uiOutput(ns("metaUI_legend_dev_failed"))
+                # div(class = "sims-irs",
+                #     shinyWidgets::sliderTextInput(
+                #       inputId = ns("meta_nresample"),
+                #       label = "Show resample up to:",
+                #       choices = seq(1, 100, by = 1)))
+                # div(class = "sims-irs",
+                #     shinyWidgets::sliderTextInput(
+                #       inputId = ns("meta_nreplicate"),
+                #       label = "Show replicate up to:",
+                #       choices = seq(1, 100, by = 1)))
                 ),
             
             footer = uiOutput(ns("metaUI_summary_footer"))

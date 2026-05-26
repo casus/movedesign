@@ -92,8 +92,7 @@ mod_tab_about_ui <- function(id) {
             "For more details, check the first published manuscript",
             wrap_none(
               a(href = paste0(
-                "https://besjournals.onlinelibrary.wiley.com/",
-                "doi/10.1111/2041-210X.14153"), "here",
+                "https://doi.org/10.1111/2041-210X.14153"), "here",
                 target = "_blank", rel = "noopener noreferrer"), ","),
             br(),
             "and the preprint of the second manuscript",
