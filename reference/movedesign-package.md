@@ -17,3 +17,8 @@ Useful links:
 
 **Maintainer**: Inês Silva <i.simoes-silva@hzdr.de>
 ([ORCID](https://orcid.org/0000-0003-4850-6193)) \[copyright holder\]
+
+Authors:
+
+- Inês Silva <i.simoes-silva@hzdr.de>
+  ([ORCID](https://orcid.org/0000-0003-4850-6193)) \[copyright holder\]

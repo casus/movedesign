@@ -64,10 +64,10 @@ remaining individuals.
 
 Proceed by clicking the `'Extract'` button. Upon successful extraction,
 the `Displaying parameters` box presents our extracted species
-parameters: the **position autocorrelation** ($\tau_{p}$) and the
-**velocity autocorrelation timescale** ($\tau_{v}$). For the African
-buffalos, the mean $\tau_{p}$ is 10.1 days (95% CI: 6.9, 14.7), and a
-mean $\tau_{v}$ is 32.5 minutes (95% CI: 24.9, 42.6). These parameters
+parameters: the **position autocorrelation** ($`\tau_p`$) and the
+**velocity autocorrelation timescale** ($`\tau_v`$). For the African
+buffalos, the mean $`\tau_p`$ is 10.1 days (95% CI: 6.9, 14.7), and a
+mean $`\tau_v`$ is 32.5 minutes (95% CI: 24.9, 42.6). These parameters
 serve as the foundation for all subsequent simulations as we evaluate
 study design.
 

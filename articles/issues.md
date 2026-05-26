@@ -10,12 +10,14 @@ session (in the `RStudio` menu bar, this is `Session` \> `Restart R`; or
 close and re-open `R`). Then, reinstall the package using:
 
 ``` r
+
 remotes::install_github("ecoisilva/movedesign", dependencies = TRUE) 
 ```
 
 You may also need to explicitly install the `fontawesome` package:
 
 ``` r
+
 install.packages("fontawesome")
 ```
 
@@ -27,6 +29,7 @@ If you see this error when installing from GitHub, follow these steps:
 command in the RStudio or `R` console:
 
 ``` r
+
 usethis::create_github_token()
 ```
 
@@ -38,6 +41,7 @@ copy it to your clipboard (it is a string of letters and numbers).
 in `R`, enter:
 
 ``` r
+
 usethis::edit_r_environ()
 ```
 
@@ -53,6 +57,7 @@ from GitHub.
 should be able to install `movedesign` through the usual command:
 
 ``` r
+
 remotes::install_github("ecoisilva/movedesign", dependencies = TRUE) 
 ```
 

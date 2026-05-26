@@ -25,5 +25,5 @@ animal movement studies. Methods in Ecology and Evolution, 14(9),
       number = {9},
       pages = {2216--2225},
       publisher = {Wiley Online Library},
-      url = {https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14153},
+      url = {https://doi.org/10.1111/2041-210X.14153},
     }

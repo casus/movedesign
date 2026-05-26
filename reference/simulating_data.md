@@ -2,11 +2,11 @@
 
 Generates simulated animal movement tracks based on continuous-time
 movement models using
-[`ctmm::simulate()`](https://rdrr.io/pkg/ctmm/man/simulate.ctmm.html).
-Supports both single-group and grouped simulations, as determined by
-study design and data parameters. Used within the `movedesign`
-application workflows to create synthetic data for simulation studies
-and to evaluate study design.
+[`ctmm::simulate()`](https://rdrr.io/r/stats/simulate.html). Supports
+both single-group and grouped simulations, as determined by study design
+and data parameters. Used within the `movedesign` application workflows
+to create synthetic data for simulation studies and to evaluate study
+design.
 
 ## Usage
 

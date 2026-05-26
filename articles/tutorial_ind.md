@@ -48,9 +48,9 @@ and click the `'Validate'` button.
 
 When choosing an individual, we must ensure it accurately represents the
 movement behavior we aim to emulate. The validation step ensures that we
-can detect the **position autocorrelation timescale** ($\tau_{p}$),
+can detect the **position autocorrelation timescale** ($`\tau_p`$),
 essential for home range estimation, and the **velocity autocorrelation
-timescale** ($\tau_{v}$), for speed & distance estimation.
+timescale** ($`\tau_v`$), for speed & distance estimation.
 
 ![](data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgcm9sZT0iaW1nIiB2aWV3Ym94PSIwIDAgNDQ4IDUxMiIgc3R5bGU9ImhlaWdodDoxZW07d2lkdGg6MC44OGVtO3ZlcnRpY2FsLWFsaWduOi0wLjEyNWVtO21hcmdpbi1sZWZ0OmF1dG87bWFyZ2luLXJpZ2h0OmF1dG87Zm9udC1zaXplOmluaGVyaXQ7ZmlsbDpjdXJyZW50Q29sb3I7b3ZlcmZsb3c6dmlzaWJsZTtwb3NpdGlvbjpyZWxhdGl2ZTsiPjxwYXRoIGQ9Ik0yMjQgMGMtMTcuNyAwLTMyIDE0LjMtMzIgMzJWNTEuMkMxMTkgNjYgNjQgMTMwLjYgNjQgMjA4djI1LjRjMCA0NS40LTE1LjUgODkuNS00My44IDEyNC45TDUuMyAzNzdjLTUuOCA3LjItNi45IDE3LjEtMi45IDI1LjRTMTQuOCA0MTYgMjQgNDE2SDQyNGM5LjIgMCAxNy42LTUuMyAyMS42LTEzLjZzMi45LTE4LjItMi45LTI1LjRsLTE0LjktMTguNkMzOTkuNSAzMjIuOSAzODQgMjc4LjggMzg0IDIzMy40VjIwOGMwLTc3LjQtNTUtMTQyLTEyOC0xNTYuOFYzMmMwLTE3LjctMTQuMy0zMi0zMi0zMnptMCA5NmM2MS45IDAgMTEyIDUwLjEgMTEyIDExMnYyNS40YzAgNDcuOSAxMy45IDk0LjYgMzkuNyAxMzQuNkg3Mi4zQzk4LjEgMzI4IDExMiAyODEuMyAxMTIgMjMzLjRWMjA4YzAtNjEuOSA1MC4xLTExMiAxMTItMTEyem02NCAzNTJIMjI0IDE2MGMwIDE3IDYuNyAzMy4zIDE4LjcgNDUuM3MyOC4zIDE4LjcgNDUuMyAxOC43czMzLjMtNi43IDQ1LjMtMTguN3MxOC43LTI4LjMgMTguNy00NS4zeiIgLz48L3N2Zz4=)
 Once validation is successful, the button should now read `'Validated!'`
