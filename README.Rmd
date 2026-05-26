@@ -89,10 +89,10 @@ citation("movedesign")
 
 > Silva, I., Fleming, C. H., Noonan, M. J., Fagan, W. F., & Calabrese, J. M. (2023). movedesign: Shiny R app to evaluate sampling design for animal movement studies. Methods in Ecology and Evolution, 14(9), 2216–2225.
 
-[![DOI](https://img.shields.io/badge/DOI-10.1111%2F2041--210X.14153-009da0)](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14153)
+[![DOI](https://img.shields.io/badge/DOI-10.1111%2F2041--210X.14153-009da0)](https://doi.org/10.1111/2041-210X.14153)
 
 > Silva, I., Fleming, C. H., Noonan, M. J., Fagan, W. F., & Calabrese, J. M. (2025). Too few, too many, or just right? Optimizing sample sizes for population-level inferences in animal tracking projects. BioRxiv.
 
-[![DOI](https://img.shields.io/badge/DOI-10.1101%2F2025.07.30.667390v1-%23009da0.svg)](https://www.biorxiv.org/content/10.1101/2025.07.30.667390v1)
+[![DOI](https://img.shields.io/badge/DOI-10.1101%2F2025.07.30.667390-%23009da0.svg)](https://doi.org/10.1101/2025.07.30.667390)
 
 :::
