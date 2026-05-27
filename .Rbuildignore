@@ -25,3 +25,6 @@ movedesign.git
 _\.new\.png$
 ^cran-comments\.md$
 ^CRAN-SUBMISSION$
+
+(^|/)\\.quarto$
+^vignettes/\\.quarto$
