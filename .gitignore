@@ -15,4 +15,5 @@ movedesign.git
 *_.new.png
 /inst/golem-config.yml
 
+cran-comments.md
 vignettes/.quarto/
